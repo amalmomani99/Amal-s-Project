@@ -1,0 +1,22 @@
+{
+  "ProjectName": "PROJECT_NAME",
+  "DefaultDateFormat": "MM/dd/yyyy",
+  "DefaultTimeFormat": "HH:MM:SS",
+  "DefaultTimezone": "(UTC+03:00) Amman",
+  "DefaultFirstDayOfTheWeek": "Monday",
+  "AttachmentsLocationType": "",
+  "AttachmentsLocationPath": "",
+  "MaestroThemeId": "00000000-0000-0000-0000-000000000000",
+  "HomePageId": null,
+  "RuntimeLanguage": null,
+  "CreatedBy": 40,
+  "CreationDate": "2024-12-16T18:40:13.6293551Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "6a0e797a-d226-46fa-b6a8-25aa47e3e057",
+  "Code": "",
+  "Name": ""
+}

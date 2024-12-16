@@ -1,0 +1,16 @@
+{
+  "SmtpClientEmailFrom": "notification@tahaluf.ae",
+  "SmtpClientEmailHost": "smtp.office365.com",
+  "SmtpClientEmailPassword": "Wafa9400",
+  "SmtpClientEmailPort": "587",
+  "CreatedBy": 40,
+  "CreationDate": "2024-12-16T18:40:13.7140742Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "1a0a0008-8ba4-4e2a-be30-5777c9e17889",
+  "Code": "",
+  "Name": "Notification settings"
+}
