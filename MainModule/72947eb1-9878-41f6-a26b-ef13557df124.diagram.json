@@ -87,8 +87,8 @@
   "Version": 1,
   "CreatedBy": 40,
   "CreationDate": "2024-12-16T18:40:13.1842187Z",
-  "ModifiedBy": 21,
-  "ModificationDate": "2024-04-17T08:11:29.2180823Z",
+  "ModifiedBy": 40,
+  "ModificationDate": "2024-12-16T20:19:46.1080218Z",
   "DeletedBy": null,
   "DeletionDate": null,
   "MetaData": {
@@ -237,7 +237,7 @@
         },
         {
           "Name": "IsActive",
-          "TypeId": 3,
+          "TypeId": 2,
           "EntityId": "8df34981-567d-4717-9420-56b0f1d4180a",
           "EnumerationId": "",
           "Configuration": null,
@@ -491,7 +491,7 @@
         },
         {
           "Name": "Target",
-          "TypeId": 1,
+          "TypeId": 2,
           "EntityId": "8df34981-567d-4717-9420-56b0f1d4180a",
           "EnumerationId": "",
           "Configuration": null,
@@ -712,13 +712,13 @@
       "EntityKeys": [
         {
           "Name": "IsActive",
-          "TypeId": 3,
+          "TypeId": 2,
           "IsIdentity": false,
           "Value": null
         },
         {
           "Name": "Target",
-          "TypeId": 1,
+          "TypeId": 2,
           "IsIdentity": false,
           "Value": null
         },
@@ -1061,7 +1061,7 @@
         },
         {
           "Name": "CurrentStateCode",
-          "TypeId": 1,
+          "TypeId": 2,
           "EntityId": "487af62c-8e7d-45f6-8bfe-074b313cd58f",
           "EnumerationId": "",
           "Configuration": null,
@@ -1257,7 +1257,7 @@
         },
         {
           "Name": "RequestDate",
-          "TypeId": 4,
+          "TypeId": 2,
           "EntityId": "487af62c-8e7d-45f6-8bfe-074b313cd58f",
           "EnumerationId": "",
           "Configuration": "{\"localize\":true}",
@@ -1324,7 +1324,7 @@
           "HasIndex": false,
           "IndexSortType": 0,
           "IndexType": null,
-          "IsLocalized": true,
+          "IsLocalized": false,
           "CreatedBy": 21,
           "CreationDate": "2024-04-17T08:11:04.3183489Z",
           "ModifiedBy": null,
@@ -1456,13 +1456,13 @@
       "EntityKeys": [
         {
           "Name": "CurrentStateCode",
-          "TypeId": 1,
+          "TypeId": 2,
           "IsIdentity": false,
           "Value": null
         },
         {
           "Name": "RequestDate",
-          "TypeId": 4,
+          "TypeId": 2,
           "IsIdentity": false,
           "Value": null
         }
@@ -1683,7 +1683,7 @@
         },
         {
           "Name": "CurrentStateCode",
-          "TypeId": 1,
+          "TypeId": 2,
           "EntityId": "63713cd9-a6e7-49fe-b593-ca4a40888726",
           "EnumerationId": "",
           "Configuration": null,
@@ -1821,7 +1821,7 @@
         },
         {
           "Name": "CurrentStateName",
-          "TypeId": 1,
+          "TypeId": 2,
           "EntityId": "63713cd9-a6e7-49fe-b593-ca4a40888726",
           "EnumerationId": "",
           "Configuration": null,
@@ -1901,7 +1901,7 @@
         },
         {
           "Name": "IsTerminated",
-          "TypeId": 3,
+          "TypeId": 2,
           "EntityId": "63713cd9-a6e7-49fe-b593-ca4a40888726",
           "EnumerationId": "",
           "Configuration": null,
@@ -2177,7 +2177,7 @@
         },
         {
           "Name": "RequestedDate",
-          "TypeId": 4,
+          "TypeId": 2,
           "EntityId": "63713cd9-a6e7-49fe-b593-ca4a40888726",
           "EnumerationId": "",
           "Configuration": "{\"localize\":true}",
@@ -2244,7 +2244,7 @@
           "HasIndex": false,
           "IndexSortType": 0,
           "IndexType": null,
-          "IsLocalized": true,
+          "IsLocalized": false,
           "CreatedBy": 21,
           "CreationDate": "2024-04-17T08:11:11.3071163Z",
           "ModifiedBy": null,
@@ -2376,19 +2376,19 @@
       "EntityKeys": [
         {
           "Name": "CurrentStateCode",
-          "TypeId": 1,
+          "TypeId": 2,
           "IsIdentity": false,
           "Value": null
         },
         {
           "Name": "CurrentStateName",
-          "TypeId": 1,
+          "TypeId": 2,
           "IsIdentity": false,
           "Value": null
         },
         {
           "Name": "IsTerminated",
-          "TypeId": 3,
+          "TypeId": 2,
           "IsIdentity": false,
           "Value": null
         },
@@ -2400,7 +2400,7 @@
         },
         {
           "Name": "RequestedDate",
-          "TypeId": 4,
+          "TypeId": 2,
           "IsIdentity": false,
           "Value": null
         }
@@ -3455,7 +3455,7 @@
         },
         {
           "Name": "WorkflowRequestDate",
-          "TypeId": 4,
+          "TypeId": 2,
           "EntityId": "0b554782-604e-458b-b528-2d3d27ac666c",
           "EnumerationId": "",
           "Configuration": "{\"localize\":true}",
@@ -3522,7 +3522,7 @@
           "HasIndex": false,
           "IndexSortType": 0,
           "IndexType": null,
-          "IsLocalized": true,
+          "IsLocalized": false,
           "CreatedBy": 21,
           "CreationDate": "2024-04-17T08:11:28.8145617Z",
           "ModifiedBy": null,
@@ -3602,7 +3602,7 @@
         },
         {
           "Name": "WorkflowRequestDate",
-          "TypeId": 4,
+          "TypeId": 2,
           "IsIdentity": false,
           "Value": null
         }
